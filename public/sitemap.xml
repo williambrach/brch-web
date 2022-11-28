@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://www.brch.sk/</loc><lastmod>2022-11-27T15:07:56+01:00</lastmod></url><url><loc>http://www.brch.sk/projects/ps/</loc><lastmod>2022-11-27T15:07:56+01:00</lastmod></url><url><loc>http://www.brch.sk/projects/</loc><lastmod>2022-11-27T15:07:56+01:00</lastmod></url><url><loc>http://www.brch.sk/categories/</loc></url><url><loc>http://www.brch.sk/about/</loc></url><url><loc>http://www.brch.sk/contact/</loc></url><url><loc>http://www.brch.sk/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.brch.sk/</loc>
+    <lastmod>2022-11-27T15:07:56+01:00</lastmod>
+  </url><url>
+    <loc>http://www.brch.sk/projects/ps/</loc>
+    <lastmod>2022-11-27T15:07:56+01:00</lastmod>
+  </url><url>
+    <loc>http://www.brch.sk/projects/</loc>
+    <lastmod>2022-11-27T15:07:56+01:00</lastmod>
+  </url><url>
+    <loc>http://www.brch.sk/categories/</loc>
+  </url><url>
+    <loc>http://www.brch.sk/about/</loc>
+  </url><url>
+    <loc>http://www.brch.sk/contact/</loc>
+  </url><url>
+    <loc>http://www.brch.sk/tags/</loc>
+  </url>
+</urlset>

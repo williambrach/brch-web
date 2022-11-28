@@ -79,7 +79,7 @@ tr:nth-child(odd)>td {
 h1,
 h2,
 h3 {
-  font-weight: 900;
+  font-weight: 400;
 }
 p {
   margin-block-start: 1.5em;
@@ -251,12 +251,12 @@ nav.navigation a.button {
 /* profile  */
 
 .profile {
-  margin: 40px auto 40px auto;
+  margin: 20px auto 20px auto;
   text-align: center;
 }
 
 .profileDesc {
-  margin: 30px 17rem 0 20px;
+  margin: 30px 16rem 0 20px;
   /* text-align: center; */
   /* text-align: justify;  */
   display: inline-block;
@@ -329,7 +329,7 @@ nav.navigation a.button {
 }
 
 #list-page .summary {
-  color: #757575;
+  color: #404040;
   margin-top: 12px;
   word-break: normal;
   overflow-wrap: anywhere;

@@ -16,11 +16,11 @@ brch s.r.o je firma založená za účelom vývoja softvérových riešení, kon
 module.exports.experience = {
     ArtificialInteligence : [
         ['tabular data', 'time series data', 'computer vision', 'nlp'],
-        ['tensorflow', 'pytorch', 'sklearn', 'xboost']
+        ['tensorflow', 'pytorch', 'scikit-learn', 'xgboost']
     ],
-    Backend: ['python', 'fastapi', 'go'],
+    Backend: ['python', 'fastapi', 'go', 'c#', '.net'],
     Frontend: ['reactjs', 'hugo'],
-    Infrastructure: ['Azure'],
+    Infrastructure: ['Azure', 'Sharepoint'],
     Databases: [
         ['SQL', 'PostgreDB','CosmoDb', 'MS SQL'],
         ['NoSQL','MongoDB'],
