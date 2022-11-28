@@ -1,0 +1,25 @@
+<header class="profile">
+    <div class="profileDesc">
+      <h1>---</h1>
+      {{ with .Site.Params }}
+      {{ if .Site.Params.avatarLink }}
+      <a href="{{ .Site.Params.avatarLink }}">
+        <img class="avatar" alt="avatar" src="{{ "/images/logo.svg" | relURL }}" />
+      </a>
+      {{ else }}
+      <img class="avatar" alt="avatar" src="{{ "/images/logo.svg" | relURL }}" />
+      {{ end }}
+      
+
+        <h2 >{{ .businessNameFull | markdownify }}</h1>
+        <h2>{{ .createdAt | markdownify }}</h2>
+        <h2>{{ .address | markdownify }}</h2>
+        <h2>{{ .country | markdownify }}</h2>
+        <h2>{{ .mail }}</h2>
+        <h2>{{ .dic | markdownify }}</h2>
+        <h2>{{ .ico | markdownify }}</h2>
+      {{ end }}
+      <h1>---</h1>
+    </div>
+
+</header>
