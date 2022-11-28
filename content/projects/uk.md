@@ -1,7 +1,7 @@
 +++
 title = "UK - Rezervačný systém"
 date = 2022-11-27T15:07:57+01:00
-draft = false
+draft = true
 +++
 
 # Univerzita komenského
