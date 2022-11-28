@@ -33,7 +33,7 @@ mail = "Mail : info@brch.sk"
 dic = "DIČ : "
 ico = "IČO : 55 009 492"
 
-description = "My Blog"
+description = "brch s.r.o | AI software company"
 enableRSS = false
 enableComments = false
 enableGoogleAnalytics = false
