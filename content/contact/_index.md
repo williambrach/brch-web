@@ -22,5 +22,5 @@ DPH:
 brch. s r.o. je zapísaná v Obchodnom registri Okresného súdu Bratislava I. oddiel: Sro vložka číslo:  164972/B:  
 
 Tatra Banka, a. s.  
-IBAN:  
+IBAN: SK2111000000002948137131 
 BIC: TATRSKBX
