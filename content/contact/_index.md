@@ -17,7 +17,7 @@ Laurínska 3, Bratislava, 811 01
 Slovenská republika  
 IČO: 55 009 492  
 DIČ : 2121857243  
-DPH:  
+IČ DPH: SK2121857243  
 
 brch. s r.o. je zapísaná v Obchodnom registri Okresného súdu Bratislava I. oddiel: Sro vložka číslo:  164972/B:  
 
