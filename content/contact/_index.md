@@ -13,7 +13,7 @@ E-mail - **info@brch.sk**
 # Fakturačné údaje
 
 brch s r.o.  
-Laurínska 3, Bratislava, 811 01  
+Laurinská 3, Bratislava, 811 01  
 Slovenská republika  
 IČO: 55 009 492  
 DIČ : 2121857243  
