@@ -31,7 +31,8 @@ address = "Adresa : Laurinská 3, Bratislava, 811 01"
 country = "Krajina : Slovenská republika"
 mail = "Mail : info@brch.sk"
 dic = "DIČ : 2121857243"
-ico = "IČO : 55 009 492"
+ico = "IČO : 55009492"
+icodph=  "IČ DPH: SK2121857243"
 
 description = "brch s.r.o | AI software company"
 enableRSS = false
