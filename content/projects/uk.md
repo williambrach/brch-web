@@ -1,20 +1,21 @@
 +++
-title = "UK - Rezervačný systém"
+title = "Rezervačný systém pre internáty"
 date = 2022-11-27T15:07:57+01:00
 draft = false
 +++
 
-# Univerzita Komenského
+# Univerzita Komenského v Bratislave
 
-Systém na rezervovanie lôžok pre Univerzitu Komenského v Bratislave využíva najnovšie technológie SharePointu. Na vývoji tejto aplikácie sme sa aktívne podieľali na niekoľkých dôležitých frontoch:
+Pre Univerzitu Komenského v Bratislave sme vyvinuli a implementovali systém na rezerváciu internátových lôžok. Naša účasť na tomto projekte zahrňovala niekoľko kľúčových oblastí:
 
-- Import dát z existujúcich zdrojov: Naša úloha zahŕňala efektívny import dát z rôznych existujúcich zdrojov do SharePointu. Tým sme zabezpečili, že všetky relevantné informácie sú presne a spoľahlivo dostupné v novom systéme.
+- **Efektívny Import Dát** : Zabezpečili sme efektívny a spoľahlivý import dát z rôznych existujúcich zdrojov do Microsoft SharePointu. Tento krok zabezpečil, že všetky relevantné informácie sú spoľahlivo dostupné a správne integrované do nového systému.
 
-- Export rezervácií internátov: Vytvorili sme spoľahlivý mechanizmus na export jednotlivých rezervácií z rezervačného systému internátov. Tento krok zabezpečil, že informácie o ubytovaní študentov sú správne a aktualizované v reálnom čase.
+- **Spoľahlivý Export Rezervácií** : Vyvinuli sme mechanizmus na export rezervácií z internátneho systému. Tento proces zaručil, že všetky informácie o ubytovaní študentov sú dostupné aktuálne a pripravené na import do interných systémov internátov.
 
-- Záťažové testovanie: Aby sme zabezpečili, že systém je odolný a spoľahlivý, podrobili sme ho dôkladnému záťažovému testovaniu. Zistili sme jeho hranice a zabezpečili sme, že dokáže spracovať nápor registrácií študentov v prvých sekundách bez výpadkov.
+- **Záťažové Testovanie** : Aby sme zaistili vysokú odolnosť a spoľahlivosť systému, podrobili sme ho komplexnému záťažovému testovaniu. Testovanie preverilo limity systému a potvrdilo, že dokáže bez problémov spracovať vysoký nápor registrácií v krátkom čase po spustení.
 
-Naša práca na tomto projekte zabezpečila, že Univerzita Komenského môže efektívne a spoľahlivo spravovať rezervácie lôžok v internátoch pomocou moderných SharePoint technológií.
+## Výsledok
+Vďaka aj našej expertíze a riešeniam je Univerzita Komenského schopná efektívne a spoľahlivo spravovať rezervácie lôžok v internátoch. Naša práca zabezpečila, že nový systém je pripravený zvládať náročné požiadavky univerzitného prostredia, pričom využíva najmodernejšie technológie SharePointu. Naše riešenie taktiež prinieslo Univerzite Komenského vylepšenie v oblasti správy rezervácií, čo výrazne prispelo k zlepšeniu celkovej efektivity a spoľahlivosti univerzitných procesov. 
 
 ## Tech stack
 
